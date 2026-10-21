@@ -1,0 +1,149 @@
+User: What is Python?
+Assistant: Python is a programming language used for automation, web development, data analysis, and artificial intelligence.
+
+User: What is C++?
+Assistant: C++ is a compiled programming language used for game engines, systems programming, and performance-critical applications.
+
+User: What is a variable?
+Assistant: A variable is a name associated with a value in a program.
+
+User: How do I create a variable in Python?
+Assistant: Assign a value to a name. Example: age = 25
+
+User: How do I print text in Python?
+Assistant: Use the print function. Example: print("Hello World")
+
+User: How do I create a function in Python?
+Assistant: Use the def keyword. Example: def greet(): print('Hello')
+
+User: What is a Python list?
+Assistant: A list stores an ordered collection of values.
+
+User: How do I create a Python list?
+Assistant: Use square brackets. Example: numbers = [1, 2, 3]
+
+User: What is a Python dictionary?
+Assistant: A dictionary stores key-value pairs.
+
+User: How do I create a loop in Python?
+Assistant: Use a for or while statement. Example: for i in range(5): print(i)
+
+User: What is a conditional statement?
+Assistant: A conditional statement executes code based on a Boolean condition.
+
+User: What is a class?
+Assistant: A class defines attributes and methods used to create objects.
+
+User: What is an object?
+Assistant: An object is an instance of a class.
+
+User: What is inheritance?
+Assistant: Inheritance allows one class to extend another class.
+
+User: What is debugging?
+Assistant: Debugging is the process of finding and fixing software errors.
+
+User: What is a syntax error?
+Assistant: A syntax error occurs when code violates the grammar of a programming language.
+
+User: What is a runtime error?
+Assistant: A runtime error occurs while a program is executing.
+
+User: What is an exception in Python?
+Assistant: An exception is an event that interrupts normal program execution.
+
+User: How do I handle exceptions in Python?
+Assistant: Use try and except blocks to handle expected errors.
+
+User: What is a pointer in C++?
+Assistant: A pointer is a variable that stores a memory address.
+
+User: What is a reference in C++?
+Assistant: A reference is an alias for an existing object.
+
+User: What is a vector in C++?
+Assistant: A vector is a dynamically sized sequence container.
+
+User: What is the C++ standard library?
+Assistant: The C++ standard library provides containers, algorithms, utilities, and input-output functionality.
+
+User: What is an algorithm?
+Assistant: An algorithm is a sequence of instructions for solving a problem.
+
+User: What is a stack?
+Assistant: A stack is a data structure that follows last-in, first-out ordering.
+
+User: What is a queue?
+Assistant: A queue is a data structure that follows first-in, first-out ordering.
+
+User: What is a linked list?
+Assistant: A linked list is a collection of nodes connected by references.
+
+User: What is binary search?
+Assistant: Binary search finds a value in a sorted sequence by repeatedly reducing the search interval.
+
+User: What is recursion?
+Assistant: Recursion occurs when a function calls itself to solve smaller problems.
+
+User: What is Big O notation?
+Assistant: Big O notation describes how an algorithm's resource requirements grow with input size.
+
+User: What is Git?
+Assistant: Git is a version control system used to track source code changes.
+
+User: What is a Git commit?
+Assistant: A commit records a snapshot of changes in a Git repository.
+
+User: What is a Git branch?
+Assistant: A branch is a movable reference to a line of development in Git.
+
+User: What is an API?
+Assistant: An API defines how software components interact.
+
+User: What is REST?
+Assistant: REST is an architectural style for designing networked applications.
+
+User: What is JSON?
+Assistant: JSON is a text-based format for exchanging structured data.
+
+User: What is SQL?
+Assistant: SQL is a language used to query and manage relational databases.
+
+User: What is a primary key?
+Assistant: A primary key uniquely identifies each row in a relational database table.
+
+User: What is unit testing?
+Assistant: Unit testing checks individual components of software for expected behavior.
+
+User: What is PyTorch?
+Assistant: PyTorch is a machine learning framework that supports tensor computation and automatic differentiation.
+
+User: What is a tensor?
+Assistant: A tensor is a multidimensional array used in numerical computation.
+
+User: What is a neural network?
+Assistant: A neural network is a computational model with layers of learned parameters.
+
+User: What is a Transformer?
+Assistant: A Transformer is a neural network architecture that uses attention to process sequences.
+
+User: What is backpropagation?
+Assistant: Backpropagation computes gradients used to train neural networks.
+
+User: What is a learning rate?
+Assistant: A learning rate controls the size of parameter updates during optimization.
+
+User: What is overfitting?
+Assistant: Overfitting occurs when a model learns training data too closely and generalizes poorly.
+
+User: What is Unreal Engine?
+Assistant: Unreal Engine is a game development engine supporting C++ and visual scripting.
+
+User: What is an Actor in Unreal Engine?
+Assistant: An Actor is an object that can be placed or spawned in an Unreal Engine level.
+
+User: What is a component in Unreal Engine?
+Assistant: A component adds reusable functionality or data to an Actor.
+
+User: What is Blueprint in Unreal Engine?
+Assistant: Blueprint is Unreal Engine's node-based visual scripting system.
